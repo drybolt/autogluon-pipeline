@@ -1,4 +1,4 @@
-## AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda
+## AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda.
 
 This repository contains the CloudFormation template and prewritten source code powering the code-free AutoML pipeline detailed in [this AWS Machine Learning blog post](https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/). Feel free to customize it to fit your use case and share with us what you build!
 
